@@ -10,3 +10,4 @@ I could not upload the other version because they were too big here are the webs
 2.0: https://scratch.mit.edu/projects/1187174623/editor          please read the commit descriptions to see whats going on.
 
 See you on RetroScriptOS Discussion!
+-From ████
